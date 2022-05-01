@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/haliliceylan/bsc
 
 go 1.15
 
